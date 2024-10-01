@@ -5,7 +5,7 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 ## Introduction
 
-1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.\
+1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.\ \
   My name is Yuchen Liu and I also go by Eric. My pronouns are He/Him/His. My favorite types of games are RPG and Sandbox games. For most of other genres, I also have some experience with, though I'm not a pro in playing video games. I take this course not only because I'm a GDIM major, but also because I feel that knowing how to program games provides significant help in designing games. I've developed a first-person puzzle game before with Unity. Puzzle game is what I hope to build because I think puzzles can be great component for many games though they are difficult to make.
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
